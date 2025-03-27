@@ -59,4 +59,4 @@ npm run dev
 4. Create a pull request.
 
 ## Acknowledgments
-- FastF1 API for telemetry data.
+- FastF1 API for telemetry data
